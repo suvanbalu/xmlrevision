@@ -14,4 +14,4 @@ const schema = new Schema (
     }
 )
 
-module.export = model('Medicine',schema);
+module.exports = model('Medicine',schema);
